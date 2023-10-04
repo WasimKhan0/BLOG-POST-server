@@ -6,7 +6,7 @@ const Post = require("../models/Post");
 const Comment = require("../models/Comment");
 
 const bcrypt = require("bcrypt");
-const verifyToken = require("../VerifyToken");
+const verifyToken = require("../verifyToken");
 
 
 //Update
